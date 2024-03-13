@@ -2,7 +2,7 @@
 	"slug" : "k-means-project-tutorial",
 	"title" : "K-means Project Tutorial",
 	"preview": "https://github.com/4GeeksAcademy/k-means-project-tutorial/blob/main/preview.png?raw=true",
-	"solution": "https://github.com/4GeeksAcademy/k-means-project-tutorial/blob/main/solution_guide.ipynb",
+	"solution": "https://github.com/4GeeksAcademy/k-means-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
 	"technologies": ["data-science", "machine-learning"],
