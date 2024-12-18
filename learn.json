@@ -5,10 +5,12 @@
 	"solution": "https://github.com/4GeeksAcademy/k-means-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning"],
+	"technologies": ["python", "pandas", "numpy", "matplotlib", "scikit-learn", "data-science", "machine-learning"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Use the k-means algorithm to segment houses based on their coordinates."
 }
